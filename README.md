@@ -1,2 +1,4 @@
 # Non-AlphanumericPhpEvalPayloadEncoder
-i used this to solve wargame
+
+ex) /.Non-AlphanumericPhpEvalPayloadEncoder.exe whoami \`
+result: ('('^'_').('('^'@').('/'^'@').('!'^'@').('-'^'@').(')'^'@')
