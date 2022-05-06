@@ -1,4 +1,4 @@
 # Non-AlphanumericPhpEvalPayloadEncoder
 
-ex) /.Non-AlphanumericPhpEvalPayloadEncoder.exe whoami \`\n
+ex) /.Non-AlphanumericPhpEvalPayloadEncoder.exe whoami \`<br/>
 result: ('('^'_').('('^'@').('/'^'@').('!'^'@').('-'^'@').(')'^'@')
